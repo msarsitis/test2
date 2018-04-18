@@ -1,0 +1,44 @@
+/* Universal style */
+
+h1,
+h2,
+h3,
+p {
+  font-family: Helvetica, sans-serif;
+}
+
+/* H1 styles */
+h1 {
+  background-image:
+    url("../images/pattern.jpg");
+  background-position: center;
+  font-size: 100px;
+  font-weight: bold;
+  color: green;
+  text-align: center;
+}
+
+/* H2 styles */
+h2 {
+  font-size: 32px;
+  color: white;
+}
+
+#brushes {
+  background-color: mediumspringgreen;
+}
+
+#frames {
+  background-color: lightcoral;
+}
+
+#paint {
+  background-color: skyblue;
+}
+
+/* Span style */
+.price {
+  font-family:Helvetica;
+  font-weight:bold;
+  color: blue;
+}
